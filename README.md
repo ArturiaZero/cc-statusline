@@ -6,9 +6,7 @@ Zero dependencies. One file. Copy and go.
 
 ## What it looks like
 
-```
- AI日记 (main) | mimo-v2-pro | ████████████████░░░░ 80% | think: ON
-```
+<img width="847" height="79" alt="cc-statusline screenshot" src="screenshot.png" />
 
 - **Directory** + git branch — know where you are
 - **Model name** — always visible
